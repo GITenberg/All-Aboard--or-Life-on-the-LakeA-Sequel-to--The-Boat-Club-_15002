@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/260
     wikipedia: http://www.gutenberg.org/browse/authors/a#a5655
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15002#All-Aboard--or-Life-on-the-LakeA-Sequel-to--The-Boat-Club-
 gutenberg_bookshelf: Children's Fiction
 gutenberg_issued: '2005-02-09'
 gutenberg_type: Text
